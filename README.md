@@ -20,3 +20,10 @@ This project demonstrates how to create smooth, interactive animations using **J
 - Handling `mousemove` events
 - DOM element positioning
 - Creating smooth animations with GSAP
+
+## 📽️ Demo
+Check out the demo video on my LinkedIn profile.
+
+---
+
+⭐ If you like this project, feel free to star the repository.
