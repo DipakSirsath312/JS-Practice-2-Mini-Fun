@@ -15,3 +15,8 @@ This project demonstrates how to create smooth, interactive animations using **J
 - CSS
 - JavaScript
 - GSAP (GreenSock Animation Platform)
+
+## 📌 Learning Outcome
+- Handling `mousemove` events
+- DOM element positioning
+- Creating smooth animations with GSAP
