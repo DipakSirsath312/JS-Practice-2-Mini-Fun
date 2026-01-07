@@ -9,3 +9,9 @@ This project demonstrates how to create smooth, interactive animations using **J
 - Real-time mouse tracking
 - Smooth horizontal movement using GSAP
 - Responsive mapping with `gsap.utils.mapRange()`
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- GSAP (GreenSock Animation Platform)
